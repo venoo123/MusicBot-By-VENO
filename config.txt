@@ -2,5 +2,5 @@ owner=520531457115029506
 prefix=v
 game= Made By VENO Type vhelp
 stayinchannel=true
-songinstatus=true
+songinstatus=false
 token=NjAxMjkwMTg1Njg2MjUzNTY5.XTAJaw.D8xAHHnZEXolXd1ABK1SDJQYM30
